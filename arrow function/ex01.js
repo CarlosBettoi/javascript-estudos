@@ -13,4 +13,5 @@ const sum = (number1, number2) => {
 }
 
 console.log(sum(4,2));
+// Como resultado será feita a soma de  4 +2 = 6
 
